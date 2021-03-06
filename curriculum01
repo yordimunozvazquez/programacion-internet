@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Curriculum Vitae
+    </title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1><u><b> Yordi Muñoz Vazquez
+</b></u></h1>
+<br><br>
+<font size=4 face="Arial" color="black"<br>
+<br>Telefono: ##-##-##-##-##
+<br>Edad ##
+<br>Redes Sociales: 
+<br>Instagram: @yordi_mv
+<br>Facebook: /yordi.munoz
+<br>Twitter: @yordi_mv
+<br>Habilidades
+<br>Experiencia Laboral:Ninguna
+<br>Software que conosco: ###
+    <script src="script.js"></script>
+  </body>
+</html>
